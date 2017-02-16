@@ -1,0 +1,29 @@
+body {
+    background-color: #030303;
+    color: #fff;
+}
+
+.container {
+    width: 1200px;
+}
+
+#carousel {
+    margin: 0 auto;
+    width: 800px;
+    height: 500px;
+    overflow: hidden;
+    padding-top: 50px;
+}
+
+ul {
+    width: 4000px;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    width: 800px;
+    height: 500px;
+    list-style: none;
+    float: left;
+}
